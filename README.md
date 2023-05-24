@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, JavaScript, CSS, HTML**
 
-- 📫 Reach me at **rym5387@psu.edu**
+- 📫 Feel Free to reach me at **rym5387@psu.edu**
 
 
 <p align="left">

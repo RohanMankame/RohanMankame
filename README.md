@@ -13,6 +13,8 @@
 
 - 📫 Feel Free to reach me at **rym5387@psu.edu**
 
+- 💫 Currently looking for internship opportunities
+
 
 <p align="left">
 

@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **C++, JavaScript, CSS, HTML**
 
+- 🔍 I am intrested in WebDev, machine learning and AI  
+
 - 📫 Feel Free to reach me at **rym5387@psu.edu**
 
 

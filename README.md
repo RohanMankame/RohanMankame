@@ -16,5 +16,5 @@
 - 💫 Currently looking for internship opportunities
 
 
-<p align="left">
+<p align="center">
 

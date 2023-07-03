@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **C++, JavaScript, CSS, HTML**
 
-- 🔍 I am intrested in WebDev, machine learning and AI  
+- 🔍 I am intrested in Fintech, mobile development and machine learning  
 
 - 📫 Feel Free to reach me at **rym5387@psu.edu**
 
-- 💫 Looking to colabrate on a project? contact me              
+- 💫 LinkedIn: www.linkedin.com/in/rohanmankame             
 
 
 <p align="center">

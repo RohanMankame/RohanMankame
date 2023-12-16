@@ -3,7 +3,7 @@
               
 - 🔭 I’m currently studying **Computer Science at Penn State University**
 
-- 📍 Based out of Harrisburg,PA,USA. Currently in Pune,India for the summer.
+- 📍 Based out of Harrisburg,PA,USA. 
 
 - 😎 Confident in **Python, Java, MatLab, MIPS** 
 

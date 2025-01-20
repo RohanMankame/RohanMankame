@@ -7,9 +7,7 @@
 
 - 😎 My main languages are **Python and Java** 
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML**
-
-- 🔍 I am intrested in Fintech, mobile development and machine learning  
+- 🔍 I'm actively seeking **Backend Development** opportunities
 
 - 📫 Feel Free to reach me at **rym5387@psu.edu**
 

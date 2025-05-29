@@ -3,13 +3,13 @@
               
 - 🔭 I’m a recent graduate of **Computer Science from Penn State University**
 
-- 📍 Based out of Harrisburg,PA,USA. 
+- 📍 Currently in Pune, Maharashtra, India 
 
 - 😎 My main languages are **Python and Java** 
 
-- 🔍 I'm actively seeking **Backend Development** opportunities
+- 🔍 I'm actively seeking **Software Development and/or IT** opportunities
 
-- 📫 Feel Free to reach me at **rym5387@psu.edu**
+- 📫 Feel Free to reach me at **RohanManakame@outlook.com**
 
 - 💫 LinkedIn: www.linkedin.com/in/rohanmankame             
 
